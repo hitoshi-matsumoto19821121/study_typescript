@@ -1,0 +1,9 @@
+{
+/* 参考:https://qiita.com/alfas/items/539ade65926deb530e0e */
+/* まずは人様のソースをコピーして置く。後ほど解析しないと */
+    "compilerOptions": {
+        "target": "ES5",        /* ECMAScriptのターゲットバージョン */
+        "module": "commonjs",   /*モジュールコード生成*/
+        "sourceMap": true       /*'.map'ファイルを生成します。*/
+    }
+}
